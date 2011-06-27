@@ -1,0 +1,1 @@
+Just an ActiveRecord create to insert all the zip codes in the US along with lat/lng, city name, etc.
